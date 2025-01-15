@@ -1,0 +1,11 @@
+openai>=1.0.0
+whisper-timestamped>=1.12.20
+moviepy>=1.0.3
+opencv-python>=4.8.0
+ffmpeg-python>=0.2.0
+scenedetect>=0.6.1
+pytube>=15.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
